@@ -1,3 +1,4 @@
 <svg width="445" height="334" viewBox="0 0 445 334" fill="none" xmlns="https://img.icons8.com/bubbles/2x/menu.png">
-<path d="M445 66.8V0H0V66.8H445ZM445 200.4V133.6H0V200.4H445ZM445 334V267.2H0V334H445Z" fill="white"/>
-</svg>
+<a href="something-goes-here">
+<img src="https://img.icons8.com/bubbles/2x/menu.png" />
+</a>
